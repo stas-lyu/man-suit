@@ -66,6 +66,7 @@ body {
     align-items: center;
     justify-content: center;
     position: relative;
+    margin: 1rem 0;
 }
 
 .product_description {
@@ -90,6 +91,8 @@ body {
 
 .product_title {
     text-align: center;
+    font-size: 1.6rem;
+    margin: 1rem 0 0 0;
 }
 
 .product_price {
